@@ -2,7 +2,7 @@ server:
   port: 8050
 
 build:
-  version: "v1"
+  version: "v2"
 
 eureka:
   instance:
