@@ -1,6 +1,9 @@
 server:
   port: 8050
 
+build:
+  version: "v1"
+
 eureka:
   instance:
     hostname: localhost
